@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77106677213",
+    "project_id": "marketapp-9d790",
+    "storage_bucket": "marketapp-9d790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77106677213:android:d8ff5fd7c11ce1229ea234",
+        "android_client_info": {
+          "package_name": "com.market.eticaret"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYX0kwzOu4QVcN9ItoTtjRvTNVK2ABejM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

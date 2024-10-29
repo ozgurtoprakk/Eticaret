@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CustomSplashScreenTheme" parent="Theme.SplashScreen">
+        <!-- Background color for the splash screen -->
+        <item name="windowSplashScreenBackground">@color/splash_background_color</item>
+
+        <!-- Animated icon to display on the splash screen -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ssss</item>
+
+        <!-- Duration of the splash screen animation -->
+        <item name="windowSplashScreenAnimationDuration">3500</item>
+
+        <!-- Post Splash Screen Theme -->
+        <item name="postSplashScreenTheme">@style/Theme.AppTheme</item>
+    </style>
+
+
+    <!-- AppCompat tabanlı ana tema -->
+    <style name="Theme.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Temel tema ayarları -->
+        <!-- Burada AppCompat tabanlı stil özelliklerini tanımlayın -->
+    </style>
+
+</resources>
